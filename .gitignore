@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Local SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Publish output
+publish/
